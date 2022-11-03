@@ -7,3 +7,7 @@ users : contents = 1 : N <br/><br/><br/>
 
 
 <img width="30%" src="https://user-images.githubusercontent.com/113086375/199632219-2702ad88-5ec4-4f91-b850-dea71cc40d86.png"/>
+
+
+<br/><br/><br/><br/><br/><br/>
+npm express, pm2, cors, sequelize, mysql2,sequelize-cli
