@@ -1,6 +1,6 @@
 # express_sequelize_demo
 <br/>
-<strong>Express Sequelize Demo<strong><br/><br/><br/>
+<strong>Express Sequelize Demo</strong><br/><br/><br/>
 
 users : user_infos = 1 : 1 <br/>
 users : contents = 1 : N <br/><br/><br/>
